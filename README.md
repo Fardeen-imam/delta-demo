@@ -11,4 +11,4 @@ Muhammad Fardeen
 Male
 
 # profession
-software engneer
+software engineer
